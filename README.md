@@ -1,2 +1,0 @@
-# PythonDeveloper
-Dio_PythonDeveloper
